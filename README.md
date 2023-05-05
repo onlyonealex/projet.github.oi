@@ -1,6 +1,6 @@
 # Le titre : projet.github.oi
 # Description : 
-Les utilisateurs des sites web veulent une expérience de plus en plus personnalisée, de plus en plus attractive. / Cette petite animation peut contribuer à l’aspect attrayant du site et fournir une bonne expérience à l’utilisateur.  
+Les utilisateurs des sites web veulent une expérience de plus en plus personnalisée, de plus en plus attractive.\ Cette petite animation peut contribuer à l’aspect attrayant du site et fournir une bonne expérience à l’utilisateur.  
 # Fonctionnalités : 
 * Un programme basique
 * Le but étant d’apprendre de nouvelles connaissances
